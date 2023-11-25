@@ -1,3 +1,4 @@
-#!/usr/bin/env python3
+result = 2 * 5  # Valid multiplication expression
 
-poor_syntax = 2 * #
+print(result)  # This should print the result of 2 * 5
+
